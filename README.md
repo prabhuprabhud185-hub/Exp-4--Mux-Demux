@@ -152,7 +152,7 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 ## Output
 
-<img width="1836" height="932" alt="Screenshot 2026-11-03 151805" src="https://github.com/user-attachments/assets/26119186-1f2d-448d-81fd-df5db896bcf8" />
+<img width="1820" height="931" alt="image" src="https://github.com/user-attachments/assets/ce499d6a-06e3-4d2b-8ce8-a8fb13142c05" />
 
 
 
